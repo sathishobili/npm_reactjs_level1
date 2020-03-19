@@ -1,7 +1,12 @@
 {
   "name": "npm_reactjs_level1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "github.com/sathishobili/npm_reactjs_level1.git"
+  },
+  "homepage": "github.com/sathishobili/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
